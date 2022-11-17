@@ -24,3 +24,5 @@ PARTE III: O Modelo
   16. Mantendo e Melhorando
 
 PARTE IV: Ferramentas
+
+  17. O Plano de Desenvolvimento Individual dos Membros da Equipe
